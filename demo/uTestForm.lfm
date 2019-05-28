@@ -1,0 +1,9 @@
+object testForm: TtestForm
+  Left = 0
+  Height = 240
+  Top = 0
+  Width = 320
+  Caption = 'testForm'
+  LCLVersion = '2.0.2.0'
+  Visible = True
+end
