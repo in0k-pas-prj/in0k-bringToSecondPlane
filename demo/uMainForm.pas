@@ -10,13 +10,12 @@ uses
   Interfaces,
   InterfaceBase,
   //---
-  bringToSecond,
   bringToSecond_LCL,
+  bringToSecond,
   //----
   uTestForm,
   //----
   LazVersion,
-  //bringToSecond_X11,
   LCLType, LCLIntf, LCLPlatformDef,
   SysUtils, Forms, StdCtrls, ExtCtrls, Classes;
 
