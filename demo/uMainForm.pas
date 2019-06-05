@@ -10,8 +10,8 @@ uses
   Interfaces,
   InterfaceBase,
   //---
-  bringToSecond_LCL,
-  bringToSecond,
+  uBringToSecond_LCL,
+  uBringToSecond,
   //----
   uTestForm,
   //----
@@ -67,13 +67,13 @@ implementation
 
 procedure TMainForm.Button1Click(Sender: TObject);
 begin
-    bringToSecond_LCL.bringToSecond(Form1);
+    uBringToSecond_LCL.bringToSecond(Form1);
     info_Write;
 end;
 
 procedure TMainForm.Button2Click(Sender: TObject);
 begin
-    bringToSecond.bringToSecond(Form2);
+    uBringToSecond.bringToSecond(Form2);
     info_Write;
 end;
 
