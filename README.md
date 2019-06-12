@@ -1,6 +1,7 @@
-# in0kPRJ-bringToSecondPlane
+in0k-bringToSecondPlane DEMO
+============================
 
-Example (test project) of using the library [in0kSRC-bringToSecondPlane][L].
+Example (test project) of using the library [in0k-bringToSecondPlane_src][L].
 
 
 ### important note
@@ -12,10 +13,10 @@ as a [submodule][S] in the folder `/src`.
 
 1. Clone this repository (with all submodules) in `%SomeDIR%`.
 2. Open in [Lasarus IDE][IDE] file `%SomeDIR%/uiDemoTEST.lpi`.
-3. `BUILD`… `RUN`…
+3. `BUILD`, `RUN` ...
 
 
 [IDE]: https://www.lazarus-ide.org
-[L]:   https://github.com/in0k-pas-src/in0kSRC-bringToSecondPlane
+[L]:   https://github.com/in0k-pas-src/in0k-bringToSecondPlane_src
 [S]:   https://git-scm.com/docs/git-submodule
 
